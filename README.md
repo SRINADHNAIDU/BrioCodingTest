@@ -57,7 +57,7 @@ Dequeue() -> 4
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SRINADHNAIDU/BrioCodingTest.git
    ```
 2. Open the project in an IDE such as Visual Studio or Visual Studio Code.
 3. Build and run the project.
